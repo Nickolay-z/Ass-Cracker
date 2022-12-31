@@ -1,4 +1,4 @@
 # Ass-Cracker
 Need to download:
-  pip install colorama
-  pip install time
+  pip install colorama;
+  pip install time.
